@@ -1,0 +1,6 @@
+framework module Pods_LearnAllSwiftDemo {
+  umbrella header "Pods-LearnAllSwiftDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
