@@ -21,6 +21,8 @@ class CustomPin:NSObject, MKAnnotation {
         self.subtitle = pinSubTitle
         self.coordinate = location
     }
+    
+    
 }
 
 
